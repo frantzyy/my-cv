@@ -12,7 +12,7 @@ Natural leader that thrives on implementing clean, maintainable, standards orien
 
 I have over 19 years of experience in developing large complex quoting, issuing, claims, and customer service applications in the insurance industry. I love helping teams learn new technologies, make apps run faster, more secure, cost less, easier to maintain, and helping them sleep better at night knowing that things will work.
 
-Constantly looking to push myself and learn more. Currently I'm eagerly exploring Serverless architectues, GraphQL (Apllo and AppSync), and delivering cloud architectures on AWS in general.
+Constantly looking to push myself and learn more. Currently I'm eagerly exploring Serverless architectues, GraphQL (Apollo and AppSync), and delivering cloud architectures on AWS in general.
 
 ## Contact
 * christopher.j.frantz@gmail.com
