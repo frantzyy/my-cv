@@ -102,7 +102,7 @@ Completed the Technical Development Program that consisted of classroom training
 * Build Tools
   *  Gradle, Maven, Ant, Bamboo, Jenkins, npm, Webpack
 * Testing Tools
-  *  Nightwatch, Jasmine/Karma, Cucumber, Postmant, TestCafe, Cypress, Selenium, Saucelabs
+  *  Nightwatch, Jasmine, Karma, Jest, Cucumber, Postman, TestCafe, Cypress, Selenium, Saucelabs
 * Concepts
   * Single Page Applications, MVC, REST, GraphQL, Behavior Driver Design, Analytics, Monitoring, Responsive Web Design, Test Driven Development, Continous Integration and Continuous Delivery, Cloud Native Architectures, Component Based Design, Functional Programming,
 
