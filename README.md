@@ -65,14 +65,14 @@ Led client team reskin of Liberty’s public facing quoting web application.
 * Integrated new HTML markup and CSS into existing JSP pages and pushed use web standards and CSS frameworks
 * Maintained the current application by fixing defects, adding web chat, and providing on-call support
 
-## Commerical Insurance - Claims
+### Commerical Insurance - Claims
 Designed and developed an Electronic Data Interchange (EDI) system to batch load claims from large customers (ex: UPS)
 
 * Vetted business requirements and worked with analysts to map data to ACCORD  XML schema (XSD)
 * Provided support for customer’s development team during construction and through implementation
 
 ## Software Developer | Liberty Mutual | 2002-2005
-## Technical Development Program
+### Technical Development Program
 Completed the Technical Development Program that consisted of classroom training covering all phases of the SDLC and 4 work rotations (Business, Middleware, Claims, Architecture)
 * Responsible for implementing updates and defect fixes within a mature 24/7 call center claim reporting application, servicing over 5,000 customers with over 30,000 users.
 
