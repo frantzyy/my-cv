@@ -36,16 +36,16 @@ Constantly looking to push myself and learn more. Currently I'm eagerly explorin
 Tech lead for two agile teams that develop and support customer service applications (12 in total) for our agent and partner users covering Safeco and Liberty brands.
 
 * Modernized 3 applications to React/NodeJS with an average savings of 90% ($25,000 to $2,500) per application.
-* Change leader that defined a vision, roadmap, and architectural runway to modernize our legacy monolith applications away from Java/WAS to cloud navtive applications using Java/Tomcat and React/NodeJS in OCF and AWS with an estimated savings of 250K year over year.
+* Change leader that defined a vision, roadmap, and architectural runway to modernize our legacy monolith applications away from Java/WAS to cloud navtive applications using Java/Tomcat and React/NodeJS in OCF and AWS with an estimated savings of $250K year over year.
 * Built a reverse proxy to support authentication, multi-sessions, and session affinity of our legacy applications.
 * Migrated our apps off of Siteminder to Ping and Azure AD using OIDC and OAuth2, while providing examples for other teams to follow.
-* Assisted in production support and performance triage with key wins in reducing errors by 80% and improving end user response times by 1 second for savings of $?? per year.
+* Assisted in production support and performance triage with key wins in reducing errors by 80% and improving end user response times by 1 second that equates to direct savings on end users's average handle times.
 
 
 ### GMR US - Distribution
 Was part of a core team of top developers and solutions engineers that had been tasked with architecting and developing the go-forward state shared platform for 21 front-end applications to use.
 
-*  Assessed new technologies and frameworks by protyping and providing recommendations, documentation, and examples
+* Assessed new technologies and frameworks by protyping and providing recommendations, documentation, and examples
 *	Championed common code libraries using inner source techniques for maintaince, versioning, and adding new features
 *	Helped migrate all 21 applications from RTC to Git and mentored each team.
 *	Helped lead and mentor 10 teams directly, adovating for BDD, test automation, and cloud adoption.
