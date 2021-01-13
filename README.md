@@ -83,7 +83,6 @@ Completed the Technical Development Program that consisted of classroom training
 * Semester abroad
   - Royal Melbourne Institute of Technology | Melbourne, Australia | 2000
 
-
 # Awards
 * Top 10% peformer | 2011 | 2012 | 2013 |	2014 | 2016 | 2018 | 2019
 * 5,000pt Shine Award for outstanding service and delivery of Knowledge Center | 2019
